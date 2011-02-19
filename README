@@ -1,0 +1,7 @@
+For all the bookmarks I really like this
+
+http://www.huyng.com/bashmarks-directory-bookmarks-for-the-shell/
+
+git clone git://github.com/huyng/bashmarks.git
+make install
+source ~/.local/bin/bashmarks.sh from within your ~.bash_profile or ~/.bashrc file
